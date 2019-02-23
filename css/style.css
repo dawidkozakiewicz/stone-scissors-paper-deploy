@@ -1,0 +1,14 @@
+.container {
+  padding: 2%;
+}
+
+html body {
+  background-color: #6B5B95;
+  font-size: 30px;
+  color: white;
+}
+
+#js-computerResult,
+#js-playerResult {
+  color: yellow;
+}
